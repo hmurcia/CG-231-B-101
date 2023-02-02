@@ -1,0 +1,16 @@
+Ejercicio 3.1
+
+Cuando los tres factores de escala son iguales, se denomina escalado uniforme.
+Ahora, lee y contesta las siguientes cuestiones:
+
+1. ¿Que ocurre si los factores de escala son diferentes entre sí?
+   .... .. ... .. . . .. ...
+
+2. ¿Y si algun factor de escala es cero?
+   ... . . . . . . . .  .  . . .
+
+3. ¿Que ocurre si uno o varios factores de escala son negativos?
+   ------- -  - - - -  - - - - - - - - - 
+
+4. ¿Y si el factor de escala esta entre cero y uno?
+   
